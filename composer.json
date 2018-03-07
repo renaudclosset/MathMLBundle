@@ -3,7 +3,7 @@
   "type": "symfony-bundle",
   "description": "A MathML parser for PHP",
   "keywords": ["mathml", "symfony", "xml"],
-  "license": "Apache2",
+  "license": "Apache-2.0",
   "authors": [
     {
       "name": "Renaud Closset",
