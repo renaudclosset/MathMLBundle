@@ -1,4 +1,4 @@
-# PHPMathMLBundle
+# MathMLBundle
 
 ## Usage
 
