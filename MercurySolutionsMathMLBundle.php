@@ -1,5 +1,7 @@
 <?php
 
+namespace MercurySolutions\MathMLBundle;
+
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
 /**

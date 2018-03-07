@@ -1,6 +1,6 @@
 <?php
 
-namespace MercurySolutions\MathMLBundle;
+namespace MercurySolutions\MathMLBundle\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
