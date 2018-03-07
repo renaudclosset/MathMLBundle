@@ -1,0 +1,24 @@
+{
+  "name": "mercurysolutions/phpmathml-bundle",
+  "type": "symfony-bundle",
+  "description": "A MathML parser for PHP",
+  "keywords": ["mathml", "symfony", "xml"],
+  "license": "Apache2",
+  "authors": [
+    {
+      "name": "Renaud Closset",
+      "email": "renaud@mercurysolutions.be"
+    }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "mercurysolutions/phpmathml": "^1.0",
+    "symfony/framework-bundle": "~2.8|~3.0|~4.0"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-0": { "MercurySolutions\\PHPMathMLBundle": "" }
+  },
+  "target-dir": "MercurySolutions/PHPMathMLBundle"
+}
